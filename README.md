@@ -15,3 +15,17 @@ habits?
 Age? Income? Certain types of goods? Family status?
 - What differences are there in ordering habits of different customer
 profiles? 
+## Data Sets
+- customers
+- departments
+- orders
+- orders_products_prior
+- products
+## Tools Used 
+Data was analyzed using Python and the following libraries: 
+Pandas - for data manipulation and analysis
+Numpy - for mathematical functions 
+OS - for interacting with the operating system
+Matplotlib.pyplot - for creating visualizations  
+Seaborn - for creating statistical graphics 
+Scipy - for advanced mathematical computations 
