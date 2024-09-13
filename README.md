@@ -16,7 +16,7 @@ Age? Income? Certain types of goods? Family status?
 - What differences are there in ordering habits of different customer
 profiles? 
 ## Data Sets
-**The following are open-source data sets from Instacart with the exception of the customers data set, which was created and included for the purpose of this project**
+*The following are open-source data sets from Instacart with the exception of the customers data set, which was created and included for the purpose of this project*
 - customers
 - departments
 - orders
