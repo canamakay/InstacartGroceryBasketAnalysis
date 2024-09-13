@@ -28,4 +28,7 @@ Data was analyzed using Python and the following libraries:
 - OS - for interacting with the operating system
 - Matplotlib.pyplot - for creating visualizations  
 - Seaborn - for creating statistical graphics 
-- Scipy - for advanced mathematical computations 
+- Scipy - for advanced mathematical computations
+## Folder Contents 
+- 01 Project Management - Project Brief
+- 02 Data.  This folder contains two subfolders - 'Original Data' which consists of original data sets and 'Prepared Data' which consist of data sets that are cleaned and ready for analysis.  Data sets were not uploaded into GitHub due to space limitations.  
