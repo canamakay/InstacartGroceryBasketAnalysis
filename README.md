@@ -23,9 +23,9 @@ profiles?
 - products
 ## Tools Used 
 Data was analyzed using Python and the following libraries: 
-Pandas - for data manipulation and analysis
-Numpy - for mathematical functions 
-OS - for interacting with the operating system
-Matplotlib.pyplot - for creating visualizations  
-Seaborn - for creating statistical graphics 
-Scipy - for advanced mathematical computations 
+- Pandas - for data manipulation and analysis
+- Numpy - for mathematical functions 
+- OS - for interacting with the operating system
+- Matplotlib.pyplot - for creating visualizations  
+- Seaborn - for creating statistical graphics 
+- Scipy - for advanced mathematical computations 
