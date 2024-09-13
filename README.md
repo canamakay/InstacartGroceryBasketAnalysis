@@ -16,6 +16,7 @@ Age? Income? Certain types of goods? Family status?
 - What differences are there in ordering habits of different customer
 profiles? 
 ## Data Sets
+**The following are open-source data sets from Instacart with the exception of the customers data set, which was created and included for the purpose of this project**
 - customers
 - departments
 - orders
@@ -31,4 +32,7 @@ Data was analyzed using Python and the following libraries:
 - Scipy - for advanced mathematical computations
 ## Folder Contents 
 - 01 Project Management - Project Brief
-- 02 Data.  This folder contains two subfolders - 'Original Data' which consists of original data sets and 'Prepared Data' which consist of data sets that are cleaned and ready for analysis.  Data sets were not uploaded into GitHub due to space limitations.  
+- 02 Data - This folder contains two subfolders - 'Original Data' which consists of original data sets and 'Prepared Data' which consist of data sets that are cleaned and ready for analysis.  Data sets were not uploaded into GitHub due to space limitations.
+- 03 Scripts - Jupyter Notebooks with Python code.
+- 04 Analysis - Contains 'Visualizations' subfolder, which contains all the visualizations created using Python
+- 05 Sent to Client - Final Excel presentation
