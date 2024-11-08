@@ -1,4 +1,4 @@
-# InstacartGroceryBasketAnalysis
+# Instacart Grocery Basket Analysis
 ## Project Overview
 Instacart, an online grocery store that already has good sales, wants to know more about sales patterns.  Instacart stakeholders are interested in the purchasing behaviors of the variety of customers in their database.  The goal is to use targeted marketing strategy, in which specific marketing campaigns are directed towards different customers in order to see if there are any effects on product sales.  The project aims to analyze some of Instacart's data and gather insights that will aid in their targeted marketing strategy.
 ## Key Questions
